@@ -1,0 +1,9 @@
+C:\Users\ossma\OneDrive\Documents\Projects\AutoLocationSet\AutoLocationSet\bin\Debug\AutoLocationSet.exe.config
+C:\Users\ossma\OneDrive\Documents\Projects\AutoLocationSet\AutoLocationSet\bin\Debug\AutoLocationSet.exe
+C:\Users\ossma\OneDrive\Documents\Projects\AutoLocationSet\AutoLocationSet\bin\Debug\AutoLocationSet.pdb
+C:\Users\ossma\OneDrive\Documents\Projects\AutoLocationSet\AutoLocationSet\obj\Debug\AutoLocationSet.Properties.Resources.resources
+C:\Users\ossma\OneDrive\Documents\Projects\AutoLocationSet\AutoLocationSet\obj\Debug\AutoLocationSet.csproj.GenerateResource.cache
+C:\Users\ossma\OneDrive\Documents\Projects\AutoLocationSet\AutoLocationSet\obj\Debug\AutoLocationSet.csproj.CoreCompileInputs.cache
+C:\Users\ossma\OneDrive\Documents\Projects\AutoLocationSet\AutoLocationSet\obj\Debug\AutoLocationSet.exe
+C:\Users\ossma\OneDrive\Documents\Projects\AutoLocationSet\AutoLocationSet\obj\Debug\AutoLocationSet.pdb
+C:\Users\ossma\OneDrive\Documents\Projects\AutoLocationSet\AutoLocationSet\obj\Debug\AutoLocationSet.MainForm.resources
